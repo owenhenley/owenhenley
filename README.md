@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Owen</h1>
 <h3 align="center">iOS Engineer</h3>
 
--   🌱 I’m currently learning **Web Development whilst advancing my iOS skillset with SwiftUI and Combine**
+-   🌱 I’m currently advancing my **iOS** skillset with **SwiftUI** and **Combine**
 
 -   🎥 This is my world outside of code: [owenhenley.com](owenhenley.com)
 
