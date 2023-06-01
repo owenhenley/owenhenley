@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Owen</h1>
-<h3 align="center">iOS Engineer</h3>
+<h3 align="center">iOS Engineer/Director of Photography</h3>
 
--   🌱 I’m currently advancing my **iOS** skillset with **SwiftUI** and **Combine**
+-   🌱 iOS Dev at Sky, currently advancing my **iOS** skillset with **SwiftUI** and **Combine**.
 
--   🎥 This is my world outside of code: [owenhenley.com](owenhenley.com)
+-   🎥 Side gig as a Director of Photography. My world outside of code: [owenhenley.com](owenhenley.com)
 
 <br>
 <h3 align="left">Connect with me:</h3>
