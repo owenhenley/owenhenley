@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Owen</h1>
-<h3 align="center">iOS Engineer/Director of Photography</h3>
+<h3 align="center">iOS Engineer & Director of Photography</h3>
 
 -   🌱 iOS Dev at Sky, currently advancing my **iOS** skillset with **SwiftUI** and **Combine**.
 
