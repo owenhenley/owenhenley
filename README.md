@@ -3,7 +3,7 @@
 
 -   🌱 iOS Dev at Sky, currently advancing my **iOS** skillset with **SwiftUI** and **Combine**.
 
--   🎥 Side gig as a Director of Photography. My world outside of code: [owenhenley.com](owenhenley.com)
+-   🎥 Side gig as a Director of Photography. My world outside of code: [owenhenley.com](www.owenhenley.com)
 
 <br>
 <h3 align="left">Connect with me:</h3>
