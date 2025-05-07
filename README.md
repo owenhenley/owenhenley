@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Owen</h1>
 <h3 align="center">iOS Engineer & Cinematographer</h3>
 <br>
-<p align="center">🌱 iOS Dev at Sky working on the iOS Sky News App</p>
+<p align="center">🌱 <s>iOS Dev</s> Product Lead at Sky working on the Sky News App</p>
 <p align="center">🎥 I side gig as a Director of Photography. See my world outside of code: www.owenhenley.com</p>
 <h4 align="center">Connect with me:</h3>
 <p align="center">
